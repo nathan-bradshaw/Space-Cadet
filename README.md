@@ -4,11 +4,11 @@
 
 Welcome to **Space Cadet**, an exhilarating space shooting game developed as the final project for the *Software Engineering Intro* course by Nathan Bradshaw. In this game, you will pilot a powerful spaceship to defend against waves of alien invaders and obstacles in the vast cosmos. Prepare yourself for an interstellar journey filled with excitement and challenges!
 
-## Gameplay 
+## Gameplay with Sound
 
 https://youtu.be/3ZHuH9wxcbM
 
-## Group Demonstration
+## Group Demonstration with Sound
 
 https://youtu.be/xtlXpgx5rZQ
 
