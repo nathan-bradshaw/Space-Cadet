@@ -24,12 +24,12 @@ To embark on your **Space Cadet** adventure, follow these simple steps:
 
 ## Gameplay
 
-Your mission as a **Space Cadet** is to skillfully maneuver your spaceship and obliterate hostile alien invaders and obstacles while amassing points. Here's a brief guide on how to play:
+Your mission as a **Space Cadet** is to skillfully maneuver your spaceship and obliterate hostile alien invaders and obstacles as the clock ticks. Here's a brief guide on how to play:
 
 - **Controls**: Utilize the *left* and *right* arrow keys to navigate the spaceship. Press the *space* bar to unleash powerful shots.
 
 - **Alien Threats**: Brace yourself for diverse alien foes, each with distinct behaviors:
-  - `Alien1`: Advances towards your spaceship, firing projectiles to bring you down.
+  - `Alien1`: Advances towards your spaceship.
   - `Alien2`: Takes a diagonal trajectory across the screen, adjusting direction when reaching screen edges.
   - `Alien3`: Moves horizontally and switches movement direction periodically.
 
@@ -37,7 +37,7 @@ Your mission as a **Space Cadet** is to skillfully maneuver your spaceship and o
 
 - **Boss Confrontation**: After successfully weathering through waves, you'll confront the formidable `Boss`. This adversary launches potent fireballs, necessitating precision and skill to triumph.
 
-- **Earning Points**: Destroy alien enemies and obstacles to accumulate points. Your current score is prominently displayed at the top of the screen.
+- **Time**: Each of the three rounds lasts 60 seconds. Your current time is prominently displayed at the top of the screen.
 
 - **Lives**: You commence with 3 lives. Colliding with adversaries or their projectiles depletes your lives. Your journey concludes upon losing all your lives.
 
