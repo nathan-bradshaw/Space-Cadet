@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Ship
+comment0.text=\n\ Write\ a\ description\ of\ class\ Ship\ here.\n\ \n\ @author\ Astronauts\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Ship()
+comment1.text=\n\ Sets\ the\ ship\ up.\n
+comment2.params=
+comment2.target=void\ hit()
+comment3.params=
+comment3.target=int\ getLives()
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\n\ Act\ -\ do\ whatever\ the\ Ship\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment5.params=
+comment5.target=void\ checkKeys()
+comment5.text=\n\ Moves\ the\ ship\ side\ to\ side\ and\ fires.\n
+comment6.params=
+comment6.target=void\ fire()
+comment6.text=\n\ Fire\ a\ bullet\ if\ the\ gun\ is\ ready.\n
+numComments=7
